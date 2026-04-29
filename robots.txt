@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://manikandansivagnanam.github.io/sitemap.xml
+Sitemap: https://manikandansivagnanam.github.io//sitemap.xml
