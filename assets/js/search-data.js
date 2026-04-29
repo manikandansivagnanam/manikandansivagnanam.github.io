@@ -395,9 +395,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-",
-          title: '',
-          description: "",
+          section: "News",},{id: "projects-causal-mediation-gut-microbiota-plasma-metabolites-amp-adhd",
+          title: 'Causal Mediation: Gut Microbiota, Plasma Metabolites &amp;amp; ADHD',
+          description: "Multi-omics integration using Mendelian Randomization",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "teachings-data-science-fundamentals",
