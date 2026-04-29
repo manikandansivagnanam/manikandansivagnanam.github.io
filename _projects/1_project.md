@@ -1,25 +1,20 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Causal Mediation of Gut Microbiota, Plasma Metabolites & ADHD
+description: Multi-omics integration using Mendelian Randomization.
+img: assets/img/MR.jpg
 importance: 1
-category: work
-related_publications: true
+category: multi-omics
 ---
+**Status:** Ongoing PG Project
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Investigating the complex biological networks linking gut microbiota, metabolic profiles, and ADHD through a causal framework. This project leverages robust statistical modeling to distinguish causation from correlation.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+**Key Achievements:**
+* Applied two-sample Mendelian Randomization to extract meaningful functional insights.
+* Identified 12 significant microbial taxa associated with the trait.
+* Successfully mapped four distinct mediation pathways driven by key plasma metabolites.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
