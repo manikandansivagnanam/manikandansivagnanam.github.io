@@ -1,14 +1,14 @@
+
 ---
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: "A growing collection of my research and computational projects."
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [multi-omics, machine-learning, ngs-and-genomics, computational-tools]
 horizontal: false
 ---
-
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
