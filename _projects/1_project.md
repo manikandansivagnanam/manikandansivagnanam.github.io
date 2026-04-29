@@ -1,15 +1,10 @@
 ---
-
 layout: page
-
-title: "Causal Mediation of Gut Microbiota, Plasma Metabolites & ADHD"
-
-description: "Multi-omics integration using Mendelian Randomization."
-
+title: "Causal Mediation: Gut Microbiota, Plasma Metabolites & ADHD"
+description: "Multi-omics integration using Mendelian Randomization"
 img: assets/img/MR.jpg
-
-importance: 1category: multi-omics
-
+importance: 1
+category: multi-omics
 ---
 **Status:** Ongoing PG Project
 
